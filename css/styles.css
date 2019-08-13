@@ -12,3 +12,7 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+.fun-facts {
+  display: none;
+}
